@@ -75,7 +75,7 @@ input[type="range"]::-moz-range-track{
 
 
 input[type="range"]::-moz-range-thumb{
-    -webkit-appearance: none;
+    -moz-appearance: none;
     appearance: none;
     width: 14px;
     height: 14px;
@@ -92,7 +92,7 @@ input[type="range"]::-moz-range-thumb{
 
 /* IE */
 input[type="range"]::-ms-track{
-    width: 100%;
+    width: 200px;
     height: 10px;
     cursor: pointer;
    
@@ -100,7 +100,7 @@ input[type="range"]::-ms-track{
 
 
 input[type="range"]::-ms-thumb{
-    -webkit-appearance: none;
+    -ms-appearance: none;
     appearance: none;
     width: 14px;
     height: 14px;

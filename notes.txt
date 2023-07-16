@@ -37,3 +37,4 @@
 17> kuch pseudo classes element ko normally select krne ko hote h ...jaise :nth-child(), :nth-child-of-type() etc.
 
 
+18> https://www.tjvantoll.com/2013/04/15/list-of-pseudo-elements-to-style-form-controls/---> list-of-pseudo-elements-to-style-form-controls 

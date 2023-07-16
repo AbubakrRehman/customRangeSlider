@@ -1,0 +1,39 @@
+1> all UI elements provided by HTML itself can be chnged by browser hooks.
+
+2> u have to update or chnge it for every browser with their own provided hooks for that we use prefixes for every browser before css property.
+
+3> css prefixes for browsers are: -ms for IE, -webkit for chrome/edge/safari/newer versions of opera, -moz for mozilla firefox
+
+4> these prefixes are used along with pseudo elements.
+
+5> pseudo elements start with :: in css. This is used to style particular portion and part of selected element.
+
+6> examples are ::placeholder, ::before. ::after, ::first-line, ::first-letter, 
+
+7> thera rae other psedo elements/browser hooks also which let to update or chnge or style particular portion or part of input fields or any other default HTML UI.
+
+8>like for for range input ....there are psedo elements to select track and thumb. for every browser these psedo elements are different and also prefixed with some values.
+
+9> -ve margin---> isse element apne neighbour k samne ho jaega ...or ya fir agar aapko kisi element ko upar krna h to top:-20px 
+
+10> -ve paddingg possible nai ...agar aap dete b ho to usko wo 0 interpret krega.
+
+11> position:absolute se element apne page layout se bahar aa jaega bt flex wla properties abi b apply honge jb tk aapk left/top/bottom/right se usko khud position nai krte.
+
+
+12> pseudo elements/ browser hooks ko use kr k hi page ko CONSISTENT banaya jata h.
+
+
+13> https://shouldiprefix.com/ ---> is aap jaan skte ho k aapko css property ko prefix krna h k nai.
+
+14> https://caniuse.com/--> isse aap dekh skte ho k kon sa css rule kis browser me applicable h. with prefix or without prefix.
+
+
+15> psedo class ...psedo element se alag hota h ....this is to style element at a particular state. like when btn is active, when btn is hovered, when element is focused.
+
+16> ye classes : se start hote h ...like :hover,:active,:focus,:disabled etc.
+
+
+17> kuch pseudo classes element ko normally select krne ko hote h ...jaise :nth-child(), :nth-child-of-type() etc.
+
+

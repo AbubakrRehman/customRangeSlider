@@ -41,3 +41,6 @@
 
 
 19> default html UI like input elements n scroll etc ko style krne k liye pehle uska khud ka style remove krna hota h through appearance:none;
+
+20> agar apko css ka koi property kisi element k corresponding chaiye to ...like aapko agar kisi element ka width chaiye to aap isko 
+getComputedStyle(element) and getPropertyValue(element) se access krna hoga.

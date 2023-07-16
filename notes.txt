@@ -38,3 +38,6 @@
 
 
 18> https://www.tjvantoll.com/2013/04/15/list-of-pseudo-elements-to-style-form-controls/---> list-of-pseudo-elements-to-style-form-controls 
+
+
+19> default html UI like input elements n scroll etc ko style krne k liye pehle uska khud ka style remove krna hota h through appearance:none;
